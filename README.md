@@ -9,6 +9,9 @@
 
 ## 介绍
 
+我目前看的是python的中文版本
+LangChain-Study/python/cn
+
 🥐 参考视频课程：https://learn.deeplearning.ai/langchain
 
 🍔 BiliBili搬运：https://www.bilibili.com/video/BV1jh4y1X7cq
